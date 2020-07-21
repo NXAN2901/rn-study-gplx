@@ -1,0 +1,22 @@
+{
+  "main": {
+    "home": "100 Câu Điểm Liệt",
+    "randomThread": "Đề Ngẫu Nhiên",
+    "threads": "Thi Theo Bộ Đề",
+    "wrongOverview": "Xem Câu Bị Sai",
+    "training": "Ôn Tập Câu Hỏi",
+    "rtc": "RTC"
+  },
+  "training": {
+    "full": "Toàn Bộ Câu Hỏi",
+    "fullDescription": "100 câu hỏi",
+    "pictures": "Câu Hỏi Sa Hình",
+    "picturesDescription": "30 câu hỏi"
+  },
+  "threads": {
+    "title": "Danh Sách Đề Thi"
+  },
+  "wrongQuestions": {
+    "title": "Danh Sách Câu Hỏi Bị Sai"
+  }
+}

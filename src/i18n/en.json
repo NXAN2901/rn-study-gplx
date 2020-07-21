@@ -1,0 +1,28 @@
+{
+  "main": {
+    "home": "AppTitle",
+    "randomThread": "Random Threads",
+    "threads": "Threads",
+    "wrongOverview": "Wrong Overview",
+    "training": "Training",
+    "rtc": "RTC"
+  },
+  "training": {
+    "full": "Full Questions",
+    "fullDescription": "100 Questions",
+    "pictures": "Image Questions",
+    "picturesDescription": "30 Questions"
+  },
+  "threads": {
+    "title": "Danh Sách Đề Thi"
+  },
+  "wrongQuestions": {
+    "title": "Danh Sách Câu Hỏi Bị Sai"
+  },
+  "questionsListTooltip": {
+    "name": "Câu {0}"
+  },
+  "question": {
+    "name": "Câu hỏi {0}"
+  }
+}
