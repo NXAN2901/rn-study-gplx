@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@redux-offline/redux-offline": "2.5.2-native.1",
-    "axios": "0.19.0",
+    "axios": "0.21.1",
     "deprecated-react-native-listview": "0.0.5",
     "lodash": "4.17.15",
     "native-base": "2.13.5",
