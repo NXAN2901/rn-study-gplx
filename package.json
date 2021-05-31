@@ -12,7 +12,7 @@
     "@redux-offline/redux-offline": "2.5.2-native.1",
     "axios": "0.19.0",
     "deprecated-react-native-listview": "0.0.5",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "native-base": "2.13.5",
     "prop-types": "15.7.2",
     "react": "16.8.6",
