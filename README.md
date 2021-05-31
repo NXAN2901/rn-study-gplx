@@ -1,4 +1,4 @@
-# RNStudyProj
+# GPLX Project
 
 ## Setting Environment
 
